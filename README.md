@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Abdullah Md Jahid Hassan
+🎓 CSE Graduate | 💻 Python-Django Backend Developer | ⚙️ Full Stack Explorer | 🚀 Tech Enthusiast
 
 <p>
   <img src="https://img.shields.io/badge/🎓_CSE_Graduate-blue" height="25">
@@ -7,7 +8,6 @@
   <img src="https://img.shields.io/badge/🚀_Tech_Enthusiast-orange" height="25">
 </p>
 
-🎓 CSE Graduate | 💻 Python-Django Backend Developer | ⚙️ Full Stack Explorer | 🚀 Tech Enthusiast
 
 I'm a passionate and self-driven Python-Django developer with a solid foundation in computer science and practical experience in backend development, databases, and system integration. My journey blends software with hardware innovation—from crafting web apps to building real-time data systems using Arduino and RGB LEDs.
 
@@ -26,7 +26,7 @@ During my academic years, I led a thesis on **Li-Fi-based Parallel Data Transmis
 3. 🌐 **[Portfolio Website](https://amjh.space)**  
    A personal, responsive web portfolio to showcase my professional journey, projects, and skills.
 
-4. 🌐 **[Personal Assets Management System](https://my_asset.amjh.space)**  
+4. 💸 **[Personal Assets Management System](https://my_asset.amjh.space)**  
    A full-featured web application built using Django for individuals to manage their income sources, assets, taxes, and zakat obligations.
 
 ---
