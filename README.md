@@ -26,6 +26,9 @@ During my academic years, I led a thesis on **Li-Fi-based Parallel Data Transmis
 3. 🌐 **[Portfolio Website](https://amjh.space)**  
    A personal, responsive web portfolio to showcase my professional journey, projects, and skills.
 
+4. 🌐 **[Personal Assets Management System](https://my_asset.amjh.space)**  
+   A full-featured web application built using Django for individuals to manage their income sources, assets, taxes, and zakat obligations.
+
 ---
 
 ## 🛠 Tech Stack
