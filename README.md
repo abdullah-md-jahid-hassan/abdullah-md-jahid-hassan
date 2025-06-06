@@ -17,10 +17,10 @@ During my academic years, I led a thesis on **Li-Fi-based Parallel Data Transmis
 
 ## 🚀 Projects I'm Proud Of
 
-1. 🌐 **[Portfolio Website]([https://github.com/abdullah-md-jahid-hassan/My_portfolio])**  
+1. 🌐 **[Portfolio Website](https://github.com/abdullah-md-jahid-hassan/My_portfolio)**  
    A personal, responsive web portfolio to showcase my professional journey, projects, and skills.
 
-2. 💸 **[Personal Assets Management System]([https://github.com/abdullah-md-jahid-hassan/Personal_assets_management])**  
+2. 💸 **[Personal Assets Management System](https://github.com/abdullah-md-jahid-hassan/Personal_assets_management)**  
    A full-featured web application built using Django for individuals to manage their income sources, assets, taxes, and zakat obligations.
 
 
