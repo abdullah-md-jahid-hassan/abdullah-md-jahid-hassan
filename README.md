@@ -17,18 +17,18 @@ During my academic years, I led a thesis on **Li-Fi-based Parallel Data Transmis
 
 ## 🚀 Projects I'm Proud Of
 
-1. 🔌 **[Internet Service Provider Management System](https://github.com/abdullah-md-jahid-hassan/ISP-Management-System)**  
-   A PHP-MySQL-based management panel to handle customers, billing, connections, and task tracking. Ideal for small to mid-size ISPs.
-
-2. 🌈 **[Li-Fi Parallel Transmission](https://github.com/abdullah-md-jahid-hassan/li-fi-parallel-rgb)**  
-   My CSE thesis project. Used Arduino and an RGB LED to send 3-bit color-coded data—pioneering parallel transmission in Li-Fi systems.
-
-3. 🌐 **[Portfolio Website](https://amjh.space)**  
+1. 🌐 **[Portfolio Website]([https://amjh.space](https://github.com/abdullah-md-jahid-hassan/My_portfolio))**  
    A personal, responsive web portfolio to showcase my professional journey, projects, and skills.
 
-4. 💸 **[Personal Assets Management System](https://my_asset.amjh.space)**  
+2. 💸 **[Personal Assets Management System]([https://my_asset.amjh.space](https://github.com/abdullah-md-jahid-hassan/Personal_assets_management))**  
    A full-featured web application built using Django for individuals to manage their income sources, assets, taxes, and zakat obligations.
 
+
+3. 🔌 **[Internet Service Provider Management System](https://github.com/abdullah-md-jahid-hassan/ISP-Management-System)**  
+   A PHP-MySQL-based management panel to handle customers, billing, connections, and task tracking. Ideal for small to mid-size ISPs.
+
+4. 🌈 **[Li-Fi Parallel Transmission](https://github.com/abdullah-md-jahid-hassan/li-fi-parallel-rgb)**  
+   My CSE thesis project. Used Arduino and an RGB LED to send 3-bit color-coded data—pioneering parallel transmission in Li-Fi systems.
 ---
 
 ## 🛠 Tech Stack
