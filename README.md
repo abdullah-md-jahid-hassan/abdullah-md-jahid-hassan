@@ -10,6 +10,12 @@
 [![Omnyvora](https://img.shields.io/badge/Omnyvora-My%20Org-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/omnyvora/repositories)
 ![Location](https://img.shields.io/badge/Dhaka-Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+<br>
+
+**The stack I build with, daily:**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker,aws,nginx,linux,git,github,githubactions,nextjs,react,ts,js,tailwind&theme=dark&perline=9" alt="Tech stack icons" />
+
 </div>
 
 ---
