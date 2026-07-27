@@ -61,6 +61,38 @@ In parallel, I founded **[Omnyvora](https://github.com/orgs/omnyvora/repositorie
 
 ---
 
+## Technologies & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,c,php,js,ts,bash&theme=dark" alt="Languages" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" alt="Backend frameworks" />
+
+**Databases & Caching**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" alt="Databases" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css,bootstrap&theme=dark" alt="Frontend" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github,githubactions,bash&theme=dark" alt="DevOps and cloud" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,arduino,firebase&theme=dark" alt="Tools and design" />
+
+</div>
+
+---
+
 ## Tech Stack
 
 **Languages**
