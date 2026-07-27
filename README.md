@@ -14,7 +14,7 @@
 
 **The stack I build with, daily:**
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker,aws,nginx,linux,git,github,githubactions&theme=dark&perline=9" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker,aws,nginx,linux,git,github,githubactions&theme=dark&perline=7" alt="Tech stack icons" />
 
 </div>
 
