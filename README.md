@@ -61,33 +61,19 @@ In parallel, I founded **[Omnyvora](https://github.com/orgs/omnyvora/repositorie
 
 ---
 
-## Technologies & Tools
+## Tools I Use
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,docker,git,github,figma,postman,linux&theme=dark" alt="Tools" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,c,php,js,ts,bash&theme=dark" alt="Languages" />
+<br><br>
 
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" alt="Backend frameworks" />
-
-**Databases & Caching**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" alt="Databases" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css,bootstrap&theme=dark" alt="Frontend" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github,githubactions,bash&theme=dark" alt="DevOps and cloud" />
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,arduino,firebase&theme=dark" alt="Tools and design" />
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-111111?style=for-the-badge&logo=bruno&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 </div>
 
