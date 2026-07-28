@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=2E86C1&center=true&vCenter=true&width=560&lines=Backend+engineer+who+owns+systems+end-to-end;Django+%2F+DRF+%2F+FastAPI+%2F+PostgreSQL+%2F+Docker+%2F+AWS;Junior+%E2%86%92+Senior+Python+Executive+in+11+months;Founder+%40+Omnyvora" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmdjahidhassan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-md-jahid-hassan-rqe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahmdjahidhassan)
 [![Omnyvora](https://img.shields.io/badge/Omnyvora-My%20Org-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/omnyvora/repositories)
 ![Location](https://img.shields.io/badge/Dhaka-Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
